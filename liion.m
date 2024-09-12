@@ -1,4 +1,4 @@
-% Li-ion Battery Charge/Discharge Simulation
+% Li-ion Battery Charge/Discharge Simulation adf
 
 % Parameters
 capacity = 1000; % Battery capacity in mAh (milliampere-hour)
