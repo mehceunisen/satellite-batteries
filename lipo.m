@@ -1,5 +1,5 @@
 % LiPo Battery Charge/Discharge Simulation
-
+% haydaaa
 % Parameters
 capacity = 2000; % Battery capacity in mAh (milliampere-hour)
 initial_SOC = 50; % Initial State of Charge in percentage (0-100)
